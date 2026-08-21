@@ -13,8 +13,3 @@ Live/Rescue Systems — Boot into a familiar environment without touching the un
 Sandboxed Testing — Experiment with system changes, package installations, or configurations safely.
 Privacy & Forensics — Ensure no traces are left on disk after a session.
 Immutable Infrastructure — Layer ephemeral changes over read-only base images.
-
-License
-Unlicense
-
-This work is licensed under the Unlicense. Anyone may use, modify, and redistribute these scripts and modules without restriction, even for commercial purposes.
